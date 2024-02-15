@@ -83,7 +83,7 @@ CONFIG_PACKAGE_luci-app-upnp=y
 CONFIG_PACKAGE_luci-app-webadmin=y
 CONFIG_PACKAGE_luci-app-wolplus=y
 CONFIG_PACKAGE_luci-app-fprc=y
-CONFIG_PACKAGE_luci-app-wireguard=y
+#CONFIG_PACKAGE_luci-app-wireguard=y
 CONFIG_PACKAGE_luci-app-zerotier=y
 
 CONFIG_PACKAGE_luci-ssl-openssl=y
